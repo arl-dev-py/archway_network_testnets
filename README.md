@@ -1,8 +1,8 @@
-# Archway Network Testnets 🚀
+# Archway Network Testnets 
 
 Конфигурации и инструкции для подключения к **testnet** сетям Archway Network (Cosmos SDK).
 
-## 📋 Быстрое подключение
+##  Быстрое подключение
 
 ### 1. Клонировать репозиторий
 ```bash
